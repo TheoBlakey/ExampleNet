@@ -1,0 +1,15 @@
+C:\Users\hanmo\Desktop\ExampleNet\bin\Debug\net7.0\ExampleNet.exe
+C:\Users\hanmo\Desktop\ExampleNet\bin\Debug\net7.0\ExampleNet.deps.json
+C:\Users\hanmo\Desktop\ExampleNet\bin\Debug\net7.0\ExampleNet.runtimeconfig.json
+C:\Users\hanmo\Desktop\ExampleNet\bin\Debug\net7.0\ExampleNet.dll
+C:\Users\hanmo\Desktop\ExampleNet\bin\Debug\net7.0\ExampleNet.pdb
+C:\Users\hanmo\Desktop\ExampleNet\obj\Debug\net7.0\ExampleNet.csproj.AssemblyReference.cache
+C:\Users\hanmo\Desktop\ExampleNet\obj\Debug\net7.0\ExampleNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanmo\Desktop\ExampleNet\obj\Debug\net7.0\ExampleNet.AssemblyInfoInputs.cache
+C:\Users\hanmo\Desktop\ExampleNet\obj\Debug\net7.0\ExampleNet.AssemblyInfo.cs
+C:\Users\hanmo\Desktop\ExampleNet\obj\Debug\net7.0\ExampleNet.csproj.CoreCompileInputs.cache
+C:\Users\hanmo\Desktop\ExampleNet\obj\Debug\net7.0\ExampleNet.dll
+C:\Users\hanmo\Desktop\ExampleNet\obj\Debug\net7.0\refint\ExampleNet.dll
+C:\Users\hanmo\Desktop\ExampleNet\obj\Debug\net7.0\ExampleNet.pdb
+C:\Users\hanmo\Desktop\ExampleNet\obj\Debug\net7.0\ExampleNet.genruntimeconfig.cache
+C:\Users\hanmo\Desktop\ExampleNet\obj\Debug\net7.0\ref\ExampleNet.dll
